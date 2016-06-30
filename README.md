@@ -8,8 +8,9 @@
 
 
 ##INSTALL:
-
+```Bash
 ./makefile
+```
 
 ##Usage:
 ```Bash
