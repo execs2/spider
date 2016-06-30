@@ -17,9 +17,9 @@
 spider -t thread_count -p save path -i start_id
 ```
 
-thread_count：线程数，可以看情况多开点
-save：保存的路径
-start_id：抓取的用户起始id，不会重复抓取已经抓取的用户
+<p>thread_count：线程数，可以看情况多开点 </p>
+<p>save：保存的路径</p>
+<p>start_id：抓取的用户起始id，不会重复抓取已经抓取的用户</p>
 
 注：我已经很久没更新，这个目标app的有些api可能已经更改，所以可能会失效。但是代码可以参考。
 
